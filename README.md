@@ -11,4 +11,4 @@ It uses html tables. We need to provide the rigt table and other input in order 
 - Transfer the scraped dataset to Tableau Build Tableau barbell dashboard to see which teams are over/under perfoming on XGS and by how far.
 To see which teams are accurate shsooters or wasteful infront of goals.
 
-Tableau visualization picture was also included 
+Tableau visualization can be accessed [here](https://public.tableau.com/views/PL_2324/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
